@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.c112924f.css",
-    "main.js": "/static/js/main.eadcb493.js",
-    "index.html": "/index.html",
-    "main.c112924f.css.map": "/static/css/main.c112924f.css.map",
-    "main.eadcb493.js.map": "/static/js/main.eadcb493.js.map"
+    "main.css": "/React-Travel-List/static/css/main.c112924f.css",
+    "main.js": "/React-Travel-List/static/js/main.eadcb493.js",
+    "index.html": "/React-Travel-List/index.html",
+    "main.c112924f.css.map": "/React-Travel-List/static/css/main.c112924f.css.map",
+    "main.eadcb493.js.map": "/React-Travel-List/static/js/main.eadcb493.js.map"
   },
   "entrypoints": [
     "static/css/main.c112924f.css",
